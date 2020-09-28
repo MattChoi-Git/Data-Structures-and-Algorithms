@@ -10,6 +10,7 @@ namespace Data_Structures_and_Algorithms_Review_Project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is Data Structures and Algorithms Bitch");
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\fatsa\Desktop\Data Strucutres and Algs Review\Data Structures and Algorithms Review Project\bin\Debug\Data Structures and Algorithms Review Project.exe.config
+C:\Users\fatsa\Desktop\Data Strucutres and Algs Review\Data Structures and Algorithms Review Project\bin\Debug\Data Structures and Algorithms Review Project.exe
+C:\Users\fatsa\Desktop\Data Strucutres and Algs Review\Data Structures and Algorithms Review Project\bin\Debug\Data Structures and Algorithms Review Project.pdb
+C:\Users\fatsa\Desktop\Data Strucutres and Algs Review\Data Structures and Algorithms Review Project\obj\Debug\Data Structures and Algorithms Review Project.csprojAssemblyReference.cache
+C:\Users\fatsa\Desktop\Data Strucutres and Algs Review\Data Structures and Algorithms Review Project\obj\Debug\Data Structures and Algorithms Review Project.csproj.CoreCompileInputs.cache
+C:\Users\fatsa\Desktop\Data Strucutres and Algs Review\Data Structures and Algorithms Review Project\obj\Debug\Data Structures and Algorithms Review Project.exe
+C:\Users\fatsa\Desktop\Data Strucutres and Algs Review\Data Structures and Algorithms Review Project\obj\Debug\Data Structures and Algorithms Review Project.pdb
