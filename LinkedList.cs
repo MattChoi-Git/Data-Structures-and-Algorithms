@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Data_Structures_and_Algorithms_Review_Project
 {
-   class Node
+   public class Node
     {
         public int data;
         public Node next;
@@ -16,7 +16,7 @@ namespace Data_Structures_and_Algorithms_Review_Project
             this.next = null;
         }
     }
-    class LinkedList
+    public class LinkedList
     {
         public Node head;
         private int _size;

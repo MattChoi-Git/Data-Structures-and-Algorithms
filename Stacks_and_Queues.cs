@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Data_Structures_and_Algorithms_Review_Project
 {
-    class Stacks_and_Queues
+    public class Stacks_and_Queues
     {
         /*Notes:
          * -Stacks are LIFO
@@ -15,7 +15,7 @@ namespace Data_Structures_and_Algorithms_Review_Project
          * 
          */
     }
-    class Queue
+    public class Queue
     {
         // Space O(n)
         private Node _head;
@@ -36,7 +36,7 @@ namespace Data_Structures_and_Algorithms_Review_Project
         { 
         }
     }
-    class Stack<T>
+    public class Stack<T>
     {
         // Space O(n)
         private Node _top;
